@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Practica2</string>
+    <string name="button">Button</string>
+    <string name="s1">Trucar</string>
+    <string name="s2">Internet</string>
+    <string name="s3">Mapa</string>
+    <string name="s4">Alarma</string>
+    <string name="s5">Contactes</string>
+    <string name="s6">Foto</string>
+    <string name="s7">Foto</string>
+    <string name="s8">Foto</string>
+    <string name="s9">Foto</string>
+    <string name="s10">632803421</string>
+    <string name="s11">www.google.com</string>
+
+</resources>
